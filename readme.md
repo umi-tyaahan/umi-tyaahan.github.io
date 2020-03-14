@@ -35,7 +35,8 @@
 ### 2015
 ### android
 感じど忘れ思い出しアプリ
-- AndroidStudio(JAVA)
+![logo](images/anokanji_logo.png)
+![tech](images/anokanji_tech.png)
 
 
 
