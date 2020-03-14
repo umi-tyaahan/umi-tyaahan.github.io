@@ -29,16 +29,11 @@
 ## 2016
 ### web
 小説分析用SPAサイト (2020/03稼働停止)
-- Django(python3) + Heroku
-- responsive
+<img src="images/nkaiwa_logo.png" width="250" alt="logo">
+<img src="images/nkaiwa_tech.png" width="250" alt="tech">
 
 ### 2015
 ### android
 感じど忘れ思い出しアプリ
-![logo](images/anokanji_logo.png)
-![tech](images/anokanji_tech.png)
-
-
-
-
-
+<img src="images/anokanli_logo.png" width="250" alt="logo">
+<img src="images/anokanli_tech.png" width="250" alt="tech">
