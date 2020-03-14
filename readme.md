@@ -29,11 +29,11 @@
 ## 2016
 ### web
 小説分析用SPAサイト (2020/03稼働停止)
-<img src="images/nkaiwa_logo.png" width="250" alt="logo">
+![test image size](images/nkaiwa_logo.png){:height="50%" width="50%"}
 <img src="images/nkaiwa_tech.png" width="250" alt="tech">
 
 ### 2015
 ### android
 感じど忘れ思い出しアプリ
-<img src="images/anokanli_logo.png" width="250" alt="logo">
+![test image size](anokanli_logo.png){:height="50%" width="50%"}
 <img src="images/anokanli_tech.png" width="250" alt="tech">
