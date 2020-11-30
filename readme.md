@@ -9,6 +9,7 @@
 - 特定公開データの自動収集・閲覧サービス(テスト運用中) 2 月~
 - コア技術
   - GCP (GAE/GCS) / Node / ServiceWorker 他
+- 詳細非公開
 
 ### web2
 
