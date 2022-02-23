@@ -2,6 +2,32 @@
 
 ポートフォリオサイト。作った物を掲載。
 
+## 2022
+
+### Desktop App
+- Java製ユーザー参加型ゲームアプリ
+- コア技術
+  - Java / firebase(ホスティング) 他
+
+## 2021
+
+### web1
+
+- アニメーション動画と連動したリズムゲーム ～1 月~
+- コア技術
+  - firebase(auth,store,hosting) / Phaser / Node 他
+- 詳細非公開
+
+### web2
+- HTML5ゲームの作成補助サイト~
+- コア技術
+  - GCP (GAE/GCS) / react(SSG) / Typescript 他
+
+### Desktop app
+- AI技術を利用した短文小説の自動生成アプリ~
+- コア技術
+  - GPT-2 / HuggingFace / Python3 /PyQt 他
+
 ## 2020
 
 ### web
