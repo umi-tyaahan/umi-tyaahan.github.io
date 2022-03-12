@@ -9,7 +9,7 @@
 - コア技術
   - Java / firebase(ホスティング) 他
 
-### certification
+### Certification
 - Google for Education Certified Educator lv1
 
 ![logo](images/GCE_Badges_01.png){:height="50%" width="50%"}
@@ -33,6 +33,9 @@
 - AI技術を利用した短文小説の自動生成アプリ~
 - コア技術
   - GPT-2 / HuggingFace / Python3 /PyQt 他
+
+### Certification
+- Google Cloud Fundamentals: Core Infrastructure
 
 ## 2020
 
