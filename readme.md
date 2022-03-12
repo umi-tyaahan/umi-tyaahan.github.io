@@ -10,7 +10,8 @@
   - Java / firebase(ホスティング) 他
 
 ### certification
-
+- Google for Education Certified Educator lv1
+![logo](images/GCE_Badges_01.png){:height="50%" width="50%"}
 
 
 ## 2021
