@@ -2,6 +2,18 @@
 
 ポートフォリオサイト。作った物を掲載。
 
+## 2023
+
+### Games
+- 海外ゲーム翻訳MOD コアメンバー
+  - 使用者数5万人以上
+
+### 3D/Modelings
+- VRChat向けワールドギミック販売
+
+### Certification
+- Google Data Analytics Professional
+
 ## 2022
 
 ### Desktop App
