@@ -6,10 +6,13 @@
 
 ### Games
 - 海外ゲーム翻訳MOD コアメンバー
-  - 使用者数5万人以上
+  - 利用者11万人超
+
+![data](images/subscribedata01.png)
 
 ### 3D/Modelings
 - VRChat向けワールドギミック販売
+- VRChatワールド作成
 
 ### Certification
 - Google Data Analytics Professional
