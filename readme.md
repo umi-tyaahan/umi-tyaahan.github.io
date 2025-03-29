@@ -18,7 +18,7 @@
 
 - ゲーム翻訳Mod　利用者25万人超
 
-![data](images/subscribedata02.png)
+![data](images/subscribeddata02.png)
  
 ### etc
 - 官公庁向けエンジニアリング、講師など
