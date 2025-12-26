@@ -6,14 +6,19 @@
 
 ### Games / Modeling
 - VRChat用コンテンツ、ワールド作成
-  - Visit数 11k
+  - World 1 : Visit数 11k
   -  <img width="431" height="221" alt="2025_01_world" src="https://github.com/user-attachments/assets/9e2dfcdd-5b5e-462e-a4a0-f6a893d17639" />
+
+  - World 2 ,3
+  - 3D Gaussian Splattingによるワールド構築
 
 - VRChat向けアイテム販売
   - ❤1.2k
   -  <img width="362" height="167" alt="2025_02_item" src="https://github.com/user-attachments/assets/fba08df8-f280-4c6e-ba7a-db62491285af" />
 
 - VRChat向けイベント運営、ギミック作成
+
+- 3Dキャラクターを使った、フルスクラッチでのダンス振り付け動画作成
 
 ### etc
 - 官公庁向けエンジニアリング、講師など
