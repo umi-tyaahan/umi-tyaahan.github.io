@@ -10,7 +10,7 @@
   -  <img width="431" height="221" alt="2025_01_world" src="https://github.com/user-attachments/assets/9e2dfcdd-5b5e-462e-a4a0-f6a893d17639" />
 
   - World 2 ,3
-  - 3D Gaussian Splattingによるワールド構築
+    - 3D Gaussian Splattingによるワールド構築
 
 - VRChat向けアイテム販売
   - ❤1.2k
@@ -24,6 +24,7 @@
 - 官公庁向けエンジニアリング、講師など
 - 公的機関向けセキュリティ研修講師
 - 教育機関向けオンデマンド研修動画作成
+- 教育機関向け3D Printer活用サポート
 
 ## 2024
 
